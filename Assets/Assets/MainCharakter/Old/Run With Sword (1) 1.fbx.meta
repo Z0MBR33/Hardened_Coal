@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: d07ce89042f2bdc409d19a7f1cd7dc90
+timeCreated: 1509474463
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Beard1
+    100002: ChainMailRock
+    100004: ChainMailRock.001
+    100006: Eyebrow
+    100008: Hair 1
+    100010: Hair 2
+    100012: Hair.001
+    100014: Harnisch
+    100016: mixamorig:Head
+    100018: mixamorig:HeadTop_End
+    100020: mixamorig:Hips
+    100022: mixamorig:LeftArm
+    100024: mixamorig:LeftFoot
+    100026: mixamorig:LeftForeArm
+    100028: mixamorig:LeftHand
+    100030: mixamorig:LeftHandIndex1
+    100032: mixamorig:LeftHandIndex2
+    100034: mixamorig:LeftHandIndex3
+    100036: mixamorig:LeftHandIndex4
+    100038: mixamorig:LeftLeg
+    100040: mixamorig:LeftShoulder
+    100042: mixamorig:LeftToe_End
+    100044: mixamorig:LeftToeBase
+    100046: mixamorig:LeftUpLeg
+    100048: mixamorig:Neck
+    100050: mixamorig:RightArm
+    100052: mixamorig:RightFoot
+    100054: mixamorig:RightForeArm
+    100056: mixamorig:RightHand
+    100058: mixamorig:RightHandIndex1
+    100060: mixamorig:RightHandIndex2
+    100062: mixamorig:RightHandIndex3
+    100064: mixamorig:RightHandIndex4
+    100066: mixamorig:RightLeg
+    100068: mixamorig:RightShoulder
+    100070: mixamorig:RightToe_End
+    100072: mixamorig:RightToeBase
+    100074: mixamorig:RightUpLeg
+    100076: mixamorig:Spine
+    100078: mixamorig:Spine1
+    100080: mixamorig:Spine2
+    100082: Ohr
+    100084: Player
+    100086: Player.001
+    100088: Player.002
+    100090: Player.003
+    100092: Player.004
+    100094: Player.005
+    100096: Player.006
+    100098: Player.007
+    100100: Player.008
+    100102: Player.009
+    100104: Player.010
+    100106: //RootNode
+    100108: Schuhe
+    100110: Schuhe.001
+    400000: Beard1
+    400002: ChainMailRock
+    400004: ChainMailRock.001
+    400006: Eyebrow
+    400008: Hair 1
+    400010: Hair 2
+    400012: Hair.001
+    400014: Harnisch
+    400016: mixamorig:Head
+    400018: mixamorig:HeadTop_End
+    400020: mixamorig:Hips
+    400022: mixamorig:LeftArm
+    400024: mixamorig:LeftFoot
+    400026: mixamorig:LeftForeArm
+    400028: mixamorig:LeftHand
+    400030: mixamorig:LeftHandIndex1
+    400032: mixamorig:LeftHandIndex2
+    400034: mixamorig:LeftHandIndex3
+    400036: mixamorig:LeftHandIndex4
+    400038: mixamorig:LeftLeg
+    400040: mixamorig:LeftShoulder
+    400042: mixamorig:LeftToe_End
+    400044: mixamorig:LeftToeBase
+    400046: mixamorig:LeftUpLeg
+    400048: mixamorig:Neck
+    400050: mixamorig:RightArm
+    400052: mixamorig:RightFoot
+    400054: mixamorig:RightForeArm
+    400056: mixamorig:RightHand
+    400058: mixamorig:RightHandIndex1
+    400060: mixamorig:RightHandIndex2
+    400062: mixamorig:RightHandIndex3
+    400064: mixamorig:RightHandIndex4
+    400066: mixamorig:RightLeg
+    400068: mixamorig:RightShoulder
+    400070: mixamorig:RightToe_End
+    400072: mixamorig:RightToeBase
+    400074: mixamorig:RightUpLeg
+    400076: mixamorig:Spine
+    400078: mixamorig:Spine1
+    400080: mixamorig:Spine2
+    400082: Ohr
+    400084: Player
+    400086: Player.001
+    400088: Player.002
+    400090: Player.003
+    400092: Player.004
+    400094: Player.005
+    400096: Player.006
+    400098: Player.007
+    400100: Player.008
+    400102: Player.009
+    400104: Player.010
+    400106: //RootNode
+    400108: Schuhe
+    400110: Schuhe.001
+    4300000: Hair.001
+    4300002: Hair 2
+    4300004: Player.010
+    4300006: Player.009
+    4300008: Player.008
+    4300010: Player.007
+    4300012: Player.006
+    4300014: Player.005
+    4300016: ChainMailRock.001
+    4300018: ChainMailRock
+    4300020: Player.004
+    4300022: Beard1
+    4300024: Hair 1
+    4300026: Eyebrow
+    4300028: Ohr
+    4300030: Harnisch
+    4300032: Player.003
+    4300034: Player.002
+    4300036: Player.001
+    4300038: Schuhe
+    4300040: Schuhe.001
+    4300042: Player
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Beard1
+    13700002: ChainMailRock
+    13700004: ChainMailRock.001
+    13700006: Eyebrow
+    13700008: Hair 1
+    13700010: Hair 2
+    13700012: Hair.001
+    13700014: Harnisch
+    13700016: Ohr
+    13700018: Player
+    13700020: Player.001
+    13700022: Player.002
+    13700024: Player.003
+    13700026: Player.004
+    13700028: Player.005
+    13700030: Player.006
+    13700032: Player.007
+    13700034: Player.008
+    13700036: Player.009
+    13700038: Player.010
+    13700040: Schuhe
+    13700042: Schuhe.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

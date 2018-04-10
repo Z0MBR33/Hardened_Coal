@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 51d6ad6ae5e0d4e41865db5b68700c71
+timeCreated: 1521733861
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: grass
+    100002: skull_1
+    100004: skull_3
+    100006: skull_jaw_1
+    100008: switch_rope
+    100010: switch_rope.001
+    100012: switch_rope.002
+    100014: switch_rope.003
+    100016: tribe_gazebo_1x1
+    100018: tribe_gazebo_2x1
+    100020: tribe_gazebo_2x2
+    100022: tribe_sign
+    100024: tribe_sign.001
+    100026: tribe_sign.002
+    100028: Wood_doorway_1
+    100030: Wood_doorway_2
+    100032: //RootNode
+    100034: wood_gate_1
+    100036: Wood_gate_2
+    100038: wood_wall_1
+    100040: wood_wall_2
+    100042: wood_wall_3
+    100044: wood_wall_4
+    100046: wood_wall_5
+    100048: wood_wall_6
+    100050: wood_wall_7
+    400000: grass
+    400002: skull_1
+    400004: skull_3
+    400006: skull_jaw_1
+    400008: switch_rope
+    400010: switch_rope.001
+    400012: switch_rope.002
+    400014: switch_rope.003
+    400016: tribe_gazebo_1x1
+    400018: tribe_gazebo_2x1
+    400020: tribe_gazebo_2x2
+    400022: tribe_sign
+    400024: tribe_sign.001
+    400026: tribe_sign.002
+    400028: Wood_doorway_1
+    400030: Wood_doorway_2
+    400032: //RootNode
+    400034: wood_gate_1
+    400036: Wood_gate_2
+    400038: wood_wall_1
+    400040: wood_wall_2
+    400042: wood_wall_3
+    400044: wood_wall_4
+    400046: wood_wall_5
+    400048: wood_wall_6
+    400050: wood_wall_7
+    2300000: grass
+    2300002: skull_1
+    2300004: skull_3
+    2300006: skull_jaw_1
+    2300008: switch_rope
+    2300010: switch_rope.001
+    2300012: switch_rope.002
+    2300014: switch_rope.003
+    2300016: tribe_gazebo_1x1
+    2300018: tribe_gazebo_2x1
+    2300020: tribe_gazebo_2x2
+    2300022: tribe_sign
+    2300024: tribe_sign.001
+    2300026: tribe_sign.002
+    2300028: Wood_doorway_1
+    2300030: Wood_doorway_2
+    2300032: wood_gate_1
+    2300034: Wood_gate_2
+    2300036: wood_wall_1
+    2300038: wood_wall_2
+    2300040: wood_wall_3
+    2300042: wood_wall_4
+    2300044: wood_wall_5
+    2300046: wood_wall_6
+    2300048: wood_wall_7
+    3300000: grass
+    3300002: skull_1
+    3300004: skull_3
+    3300006: skull_jaw_1
+    3300008: switch_rope
+    3300010: switch_rope.001
+    3300012: switch_rope.002
+    3300014: switch_rope.003
+    3300016: tribe_gazebo_1x1
+    3300018: tribe_gazebo_2x1
+    3300020: tribe_gazebo_2x2
+    3300022: tribe_sign
+    3300024: tribe_sign.001
+    3300026: tribe_sign.002
+    3300028: Wood_doorway_1
+    3300030: Wood_doorway_2
+    3300032: wood_gate_1
+    3300034: Wood_gate_2
+    3300036: wood_wall_1
+    3300038: wood_wall_2
+    3300040: wood_wall_3
+    3300042: wood_wall_4
+    3300044: wood_wall_5
+    3300046: wood_wall_6
+    3300048: wood_wall_7
+    4300000: tribe_gazebo_2x2
+    4300002: tribe_gazebo_2x1
+    4300004: skull_1
+    4300006: skull_jaw_1
+    4300008: wood_wall_1
+    4300010: wood_wall_2
+    4300012: wood_wall_3
+    4300014: wood_wall_5
+    4300016: wood_wall_4
+    4300018: wood_wall_6
+    4300020: tribe_sign.002
+    4300022: tribe_sign.001
+    4300024: tribe_sign
+    4300026: skull_3
+    4300028: switch_rope.002
+    4300030: switch_rope.003
+    4300032: Wood_gate_2
+    4300034: switch_rope
+    4300036: switch_rope.001
+    4300038: grass
+    4300040: wood_gate_1
+    4300042: Wood_doorway_1
+    4300044: Wood_doorway_2
+    4300046: wood_wall_7
+    4300048: tribe_gazebo_1x1
+    7400000: switch_rope.003|switch_rope.001Action
+    7400002: switch_rope.003|switch_rope.001Action.001
+    7400004: switch_rope.003|wood_gate_1Action
+    7400006: switch_rope.001|switch_rope.001Action
+    7400008: switch_rope.001|switch_rope.001Action.001
+    7400010: switch_rope.001|wood_gate_1Action
+    7400012: wood_gate_1|switch_rope.001Action
+    7400014: wood_gate_1|switch_rope.001Action.001
+    7400016: wood_gate_1|wood_gate_1Action
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

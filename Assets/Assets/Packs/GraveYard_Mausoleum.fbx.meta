@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: cc0bb9074572ee9489a6a15c0ea6691f
+timeCreated: 1509385805
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BrickStone.001
+    100002: BrickWall
+    100004: BrickWall.001
+    100006: BrickWall.002
+    100008: BrickWall.003
+    100010: Floor
+    100012: Floor.001
+    100014: Floor.002
+    100016: //RootNode
+    100018: MausoleumFloor
+    100020: MausoleumRoof
+    100022: MausoleumWall
+    100024: Piller
+    100026: Sarg
+    100028: SargDeckel
+    100030: ShortBrickWall
+    400000: BrickStone.001
+    400002: BrickWall
+    400004: BrickWall.001
+    400006: BrickWall.002
+    400008: BrickWall.003
+    400010: Floor
+    400012: Floor.001
+    400014: Floor.002
+    400016: //RootNode
+    400018: MausoleumFloor
+    400020: MausoleumRoof
+    400022: MausoleumWall
+    400024: Piller
+    400026: Sarg
+    400028: SargDeckel
+    400030: ShortBrickWall
+    2300000: BrickStone.001
+    2300002: BrickWall
+    2300004: BrickWall.001
+    2300006: BrickWall.002
+    2300008: BrickWall.003
+    2300010: Floor
+    2300012: Floor.001
+    2300014: Floor.002
+    2300016: MausoleumFloor
+    2300018: MausoleumRoof
+    2300020: MausoleumWall
+    2300022: Piller
+    2300024: Sarg
+    2300026: SargDeckel
+    2300028: ShortBrickWall
+    3300000: BrickStone.001
+    3300002: BrickWall
+    3300004: BrickWall.001
+    3300006: BrickWall.002
+    3300008: BrickWall.003
+    3300010: Floor
+    3300012: Floor.001
+    3300014: Floor.002
+    3300016: MausoleumFloor
+    3300018: MausoleumRoof
+    3300020: MausoleumWall
+    3300022: Piller
+    3300024: Sarg
+    3300026: SargDeckel
+    3300028: ShortBrickWall
+    4300000: SargDeckel
+    4300002: Floor.001
+    4300004: Floor
+    4300006: ShortBrickWall
+    4300008: BrickWall.003
+    4300010: BrickWall
+    4300012: Sarg
+    4300014: Floor.002
+    4300016: BrickWall.002
+    4300018: BrickWall.001
+    4300020: Piller
+    4300022: MausoleumRoof
+    4300024: MausoleumFloor
+    4300026: BrickStone.001
+    4300028: MausoleumWall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
