@@ -25,9 +25,13 @@ public class Clock : MonoBehaviour {
         {
             Minit = 0;
             Hours = 1;
-            if( Hours = 12)
+            if( Hours == 12)
             {
+                Am = !Am;
+                if(Am == false)
+                {
 
+                }
             }
         }
     }
